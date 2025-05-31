@@ -40,7 +40,7 @@ All data is synthetic and included under `/data/`.
 ## 🛠️ Tools Used
 
 - Microsoft Fabric Lakehouse
-- Power BI Web (Pro Trial)
+- Power BI Web 
 - DAX for KPI calculation
 - Conditional formatting
 - Scheduled refresh architecture
