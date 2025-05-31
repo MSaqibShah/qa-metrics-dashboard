@@ -1,0 +1,301 @@
+BugID,Module,Severity,CreatedDate,ResolvedDate,Release
+Reporting_BUG_001,Reporting,Critical,2024-12-30,2025-01-02,Release_2
+User Profile_BUG_002,User Profile,Medium,2024-04-03,2024-04-15,Release_4
+Notifications_BUG_003,Notifications,Medium,2024-04-03,2024-04-17,Release_2
+Settings_BUG_004,Settings,Critical,2024-04-01,2024-04-03,Release_3
+Product Catalog_BUG_005,Product Catalog,High,2024-01-09,2024-01-10,Release_5
+Reporting_BUG_006,Reporting,Critical,2024-07-06,2024-07-21,Release_5
+Settings_BUG_007,Settings,Critical,2024-09-29,2024-10-12,Release_3
+Notifications_BUG_008,Notifications,Low,2024-04-09,2024-04-12,Release_4
+Checkout_BUG_009,Checkout,Medium,2024-12-26,2025-01-04,Release_4
+Search_BUG_010,Search,Medium,2024-01-09,2024-01-17,Release_4
+Authentication_BUG_011,Authentication,Low,2024-04-06,2024-04-16,Release_1
+Reporting_BUG_012,Reporting,Medium,2024-07-01,2024-07-10,Release_5
+Notifications_BUG_013,Notifications,Low,2024-12-31,2025-01-06,Release_4
+Checkout_BUG_014,Checkout,High,2024-10-02,2024-10-08,Release_2
+Notifications_BUG_015,Notifications,Critical,2024-04-09,2024-04-12,Release_4
+User Profile_BUG_016,User Profile,Medium,2024-07-02,2024-07-11,Release_1
+Checkout_BUG_017,Checkout,High,2024-04-02,2024-04-10,Release_2
+Search_BUG_018,Search,High,2024-09-29,2024-10-14,Release_4
+Reviews_BUG_019,Reviews,Medium,2024-07-06,2024-07-11,Release_5
+Settings_BUG_020,Settings,Low,2024-09-28,2024-10-10,Release_1
+User Profile_BUG_021,User Profile,Medium,2024-10-07,2024-10-09,Release_3
+Reporting_BUG_022,Reporting,Medium,2024-07-04,2024-07-13,Release_3
+Notifications_BUG_023,Notifications,Medium,2024-01-07,2024-01-09,Release_3
+Settings_BUG_024,Settings,High,2025-01-04,2025-01-15,Release_2
+Search_BUG_025,Search,Medium,2024-07-04,2024-07-15,Release_3
+Product Catalog_BUG_026,Product Catalog,Medium,2024-10-06,2024-10-11,Release_1
+Search_BUG_027,Search,High,2024-07-05,2024-07-16,Release_2
+Checkout_BUG_028,Checkout,Medium,2024-01-03,2024-01-09,Release_1
+Reporting_BUG_029,Reporting,Medium,2024-07-08,2024-07-19,Release_3
+Product Catalog_BUG_030,Product Catalog,Medium,2025-01-03,2025-01-11,Release_3
+Search_BUG_031,Search,Medium,2024-04-03,2024-04-14,Release_1
+Payments_BUG_032,Payments,Low,2024-04-06,2024-04-08,Release_2
+Product Catalog_BUG_033,Product Catalog,Medium,2024-01-01,2024-01-14,Release_5
+Payments_BUG_034,Payments,Low,2024-07-08,2024-07-11,Release_1
+Checkout_BUG_035,Checkout,Medium,2024-04-03,2024-04-15,Release_3
+Search_BUG_036,Search,Low,2024-12-28,2024-12-29,Release_2
+Reporting_BUG_037,Reporting,Medium,2024-10-04,2024-10-18,Release_3
+Notifications_BUG_038,Notifications,Medium,2024-09-29,2024-10-11,Release_5
+Settings_BUG_039,Settings,High,2024-10-07,2024-10-19,Release_5
+Settings_BUG_040,Settings,Medium,2025-01-05,2025-01-16,Release_4
+Reporting_BUG_041,Reporting,Low,2024-12-29,2025-01-11,Release_4
+Notifications_BUG_042,Notifications,Medium,2024-10-01,2024-10-04,Release_3
+Authentication_BUG_043,Authentication,Medium,2024-04-05,2024-04-10,Release_5
+Authentication_BUG_044,Authentication,High,2024-10-01,2024-10-02,Release_4
+Notifications_BUG_045,Notifications,Medium,2024-03-31,2024-04-09,Release_5
+Checkout_BUG_046,Checkout,Low,2024-10-03,2024-10-07,Release_5
+Checkout_BUG_047,Checkout,Medium,2024-04-04,2024-04-06,Release_4
+User Profile_BUG_048,User Profile,Medium,2025-01-05,2025-01-10,Release_5
+Reviews_BUG_049,Reviews,Low,2024-09-30,2024-10-14,Release_3
+Search_BUG_050,Search,High,2024-01-11,2024-01-19,Release_3
+Notifications_BUG_051,Notifications,Low,2024-09-30,2024-10-06,Release_5
+Authentication_BUG_052,Authentication,Medium,2024-01-03,2024-01-05,Release_5
+Search_BUG_053,Search,Low,2024-01-04,2024-01-06,Release_4
+Product Catalog_BUG_054,Product Catalog,High,2024-07-05,2024-07-10,Release_2
+Product Catalog_BUG_055,Product Catalog,Low,2024-09-27,2024-10-03,Release_3
+Search_BUG_056,Search,Medium,2024-07-05,2024-07-07,Release_1
+Search_BUG_057,Search,Low,2024-07-05,2024-07-19,Release_2
+User Profile_BUG_058,User Profile,Critical,2024-09-30,2024-10-12,Release_4
+User Profile_BUG_059,User Profile,Critical,2024-01-09,2024-01-20,Release_4
+Product Catalog_BUG_060,Product Catalog,High,2024-07-04,2024-07-07,Release_4
+Authentication_BUG_061,Authentication,Medium,2024-12-27,2025-01-01,Release_5
+Notifications_BUG_062,Notifications,High,2024-06-29,2024-07-13,Release_2
+Payments_BUG_063,Payments,Low,2024-10-02,2024-10-03,Release_2
+Notifications_BUG_064,Notifications,Medium,2024-01-07,2024-01-20,Release_5
+Authentication_BUG_065,Authentication,Medium,2024-10-06,2024-10-09,Release_5
+Payments_BUG_066,Payments,High,2024-04-07,2024-04-09,Release_2
+Reporting_BUG_067,Reporting,Low,2024-01-06,2024-01-17,Release_1
+Reviews_BUG_068,Reviews,Medium,2024-04-07,2024-04-11,Release_1
+Reviews_BUG_069,Reviews,High,2024-09-30,2024-10-01,Release_3
+Reporting_BUG_070,Reporting,High,2024-06-29,2024-07-07,Release_2
+Reviews_BUG_071,Reviews,Medium,2025-01-02,2025-01-06,Release_3
+Reviews_BUG_072,Reviews,High,2024-07-06,2024-07-11,Release_3
+Settings_BUG_073,Settings,Low,2024-04-01,2024-04-10,Release_5
+Notifications_BUG_074,Notifications,Low,2024-12-31,2025-01-08,Release_3
+Reviews_BUG_075,Reviews,High,2024-03-31,2024-04-10,Release_4
+Settings_BUG_076,Settings,Critical,2024-06-30,2024-07-11,Release_2
+Checkout_BUG_077,Checkout,High,2025-01-05,2025-01-13,Release_2
+Search_BUG_078,Search,High,2024-07-04,2024-07-11,Release_5
+Payments_BUG_079,Payments,Low,2025-01-05,2025-01-07,Release_1
+Search_BUG_080,Search,Medium,2024-01-04,2024-01-06,Release_2
+Payments_BUG_081,Payments,Medium,2025-01-05,2025-01-19,Release_1
+Product Catalog_BUG_082,Product Catalog,Low,2025-01-04,2025-01-09,Release_5
+User Profile_BUG_083,User Profile,Critical,2024-01-01,2024-01-16,Release_5
+Product Catalog_BUG_084,Product Catalog,Medium,2024-10-07,2024-10-08,Release_1
+Checkout_BUG_085,Checkout,Medium,2024-01-10,2024-01-15,Release_3
+Payments_BUG_086,Payments,Low,2024-01-04,2024-01-13,Release_3
+User Profile_BUG_087,User Profile,Medium,2024-09-30,2024-10-04,Release_5
+User Profile_BUG_088,User Profile,Medium,2024-04-08,2024-04-20,Release_5
+Payments_BUG_089,Payments,High,2024-07-09,2024-07-17,Release_5
+Checkout_BUG_090,Checkout,Medium,2024-04-02,2024-04-11,Release_1
+Reporting_BUG_091,Reporting,Critical,2025-01-04,2025-01-12,Release_2
+Reporting_BUG_092,Reporting,High,2024-07-04,2024-07-11,Release_5
+Checkout_BUG_093,Checkout,Medium,2024-12-29,2025-01-08,Release_3
+Checkout_BUG_094,Checkout,Medium,2024-07-04,2024-07-12,Release_5
+Checkout_BUG_095,Checkout,Low,2024-01-05,2024-01-15,Release_1
+Search_BUG_096,Search,Medium,2024-01-05,2024-01-09,Release_3
+Reporting_BUG_097,Reporting,Medium,2024-07-07,2024-07-16,Release_1
+Settings_BUG_098,Settings,Medium,2024-01-01,2024-01-09,Release_2
+Search_BUG_099,Search,Medium,2024-07-08,2024-07-12,Release_3
+Notifications_BUG_100,Notifications,Critical,2025-01-01,2025-01-11,Release_1
+Payments_BUG_101,Payments,High,2024-09-29,2024-10-07,Release_3
+Settings_BUG_102,Settings,Low,2025-01-05,2025-01-10,Release_1
+Settings_BUG_103,Settings,High,2024-01-01,2024-01-16,Release_4
+Reporting_BUG_104,Reporting,High,2024-09-28,2024-10-12,Release_4
+Settings_BUG_105,Settings,Medium,2024-09-27,2024-10-02,Release_1
+Reporting_BUG_106,Reporting,Medium,2024-12-28,2025-01-03,Release_5
+User Profile_BUG_107,User Profile,Critical,2024-01-11,2024-01-23,Release_2
+Product Catalog_BUG_108,Product Catalog,Medium,2025-01-03,2025-01-05,Release_5
+Notifications_BUG_109,Notifications,Low,2024-04-02,2024-04-08,Release_4
+Settings_BUG_110,Settings,Low,2025-01-01,2025-01-06,Release_1
+Reviews_BUG_111,Reviews,Medium,2024-04-02,2024-04-10,Release_4
+Product Catalog_BUG_112,Product Catalog,High,2024-12-29,2025-01-07,Release_4
+Reviews_BUG_113,Reviews,High,2024-04-01,2024-04-06,Release_2
+Reporting_BUG_114,Reporting,Medium,2024-01-02,2024-01-13,Release_5
+Reporting_BUG_115,Reporting,Medium,2024-04-05,2024-04-11,Release_3
+Authentication_BUG_116,Authentication,High,2024-04-05,2024-04-15,Release_3
+Product Catalog_BUG_117,Product Catalog,Critical,2024-04-07,2024-04-08,Release_5
+User Profile_BUG_118,User Profile,High,2024-07-01,2024-07-14,Release_2
+Payments_BUG_119,Payments,Critical,2024-01-04,2024-01-14,Release_1
+Notifications_BUG_120,Notifications,Medium,2024-06-30,2024-07-05,Release_1
+Authentication_BUG_121,Authentication,Medium,2024-04-08,2024-04-12,Release_3
+Reviews_BUG_122,Reviews,High,2025-01-02,2025-01-12,Release_3
+Search_BUG_123,Search,High,2024-10-06,2024-10-21,Release_1
+Authentication_BUG_124,Authentication,Medium,2024-03-31,2024-04-05,Release_3
+Settings_BUG_125,Settings,Critical,2024-01-08,2024-01-19,Release_3
+Payments_BUG_126,Payments,Critical,2024-07-09,2024-07-23,Release_4
+Reporting_BUG_127,Reporting,High,2024-01-05,2024-01-19,Release_1
+Checkout_BUG_128,Checkout,Low,2024-10-05,2024-10-17,Release_2
+Reporting_BUG_129,Reporting,Low,2025-01-03,2025-01-05,Release_4
+Reviews_BUG_130,Reviews,Medium,2024-12-26,2024-12-27,Release_4
+Reviews_BUG_131,Reviews,High,2024-07-06,2024-07-13,Release_3
+Authentication_BUG_132,Authentication,Medium,2024-07-04,2024-07-15,Release_3
+Reviews_BUG_133,Reviews,High,2024-01-11,2024-01-16,Release_3
+Authentication_BUG_134,Authentication,Medium,2024-07-02,2024-07-05,Release_5
+Checkout_BUG_135,Checkout,Critical,2024-01-07,2024-01-16,Release_2
+Settings_BUG_136,Settings,Low,2024-09-30,2024-10-10,Release_2
+Notifications_BUG_137,Notifications,Low,2024-07-06,2024-07-15,Release_5
+Search_BUG_138,Search,Medium,2025-01-05,2025-01-18,Release_5
+Search_BUG_139,Search,Critical,2024-12-28,2025-01-04,Release_3
+Search_BUG_140,Search,Medium,2024-04-05,2024-04-07,Release_5
+Payments_BUG_141,Payments,Low,2024-07-01,2024-07-13,Release_2
+Reporting_BUG_142,Reporting,High,2024-10-01,2024-10-09,Release_4
+Notifications_BUG_143,Notifications,Low,2024-04-01,2024-04-04,Release_2
+Settings_BUG_144,Settings,High,2024-07-08,2024-07-18,Release_5
+Settings_BUG_145,Settings,Medium,2024-04-10,2024-04-11,Release_2
+Product Catalog_BUG_146,Product Catalog,High,2025-01-04,2025-01-12,Release_2
+Reporting_BUG_147,Reporting,Low,2024-10-04,2024-10-12,Release_2
+User Profile_BUG_148,User Profile,Critical,2024-01-07,2024-01-20,Release_2
+Notifications_BUG_149,Notifications,High,2024-04-10,2024-04-14,Release_4
+Payments_BUG_150,Payments,High,2024-10-06,2024-10-14,Release_2
+Product Catalog_BUG_151,Product Catalog,Low,2024-10-03,2024-10-16,Release_2
+Checkout_BUG_152,Checkout,Medium,2024-10-06,2024-10-18,Release_3
+Reviews_BUG_153,Reviews,Medium,2024-01-09,2024-01-11,Release_5
+Authentication_BUG_154,Authentication,Critical,2025-01-03,2025-01-10,Release_2
+Authentication_BUG_155,Authentication,High,2024-10-05,2024-10-18,Release_5
+Authentication_BUG_156,Authentication,High,2024-07-06,2024-07-13,Release_2
+Notifications_BUG_157,Notifications,High,2024-04-06,2024-04-11,Release_4
+Authentication_BUG_158,Authentication,High,2024-04-07,2024-04-21,Release_5
+Payments_BUG_159,Payments,Medium,2024-01-03,2024-01-16,Release_5
+Reviews_BUG_160,Reviews,Medium,2024-10-03,2024-10-09,Release_2
+Search_BUG_161,Search,Medium,2024-12-29,2025-01-13,Release_4
+Notifications_BUG_162,Notifications,Low,2024-04-01,2024-04-03,Release_3
+Product Catalog_BUG_163,Product Catalog,Medium,2024-01-09,2024-01-21,Release_3
+Reviews_BUG_164,Reviews,Medium,2024-04-06,2024-04-15,Release_5
+Search_BUG_165,Search,Low,2025-01-05,2025-01-19,Release_3
+Search_BUG_166,Search,Medium,2024-01-07,2024-01-12,Release_2
+Product Catalog_BUG_167,Product Catalog,Low,2024-04-01,2024-04-16,Release_3
+User Profile_BUG_168,User Profile,Medium,2024-12-30,2024-12-31,Release_1
+Product Catalog_BUG_169,Product Catalog,Medium,2024-01-10,2024-01-25,Release_5
+User Profile_BUG_170,User Profile,Medium,2024-10-04,2024-10-11,Release_5
+Settings_BUG_171,Settings,Medium,2024-01-04,2024-01-19,Release_5
+Settings_BUG_172,Settings,Low,2024-03-31,2024-04-03,Release_5
+Reporting_BUG_173,Reporting,Medium,2024-03-31,2024-04-11,Release_1
+Settings_BUG_174,Settings,Low,2024-06-30,2024-07-01,Release_3
+Search_BUG_175,Search,High,2024-07-08,2024-07-19,Release_2
+Settings_BUG_176,Settings,High,2024-12-28,2025-01-05,Release_5
+Reporting_BUG_177,Reporting,Medium,2024-01-05,2024-01-11,Release_1
+Checkout_BUG_178,Checkout,Medium,2024-10-05,2024-10-07,Release_1
+Search_BUG_179,Search,Medium,2024-07-04,2024-07-13,Release_1
+User Profile_BUG_180,User Profile,Medium,2024-12-26,2024-12-28,Release_2
+Reviews_BUG_181,Reviews,High,2024-10-06,2024-10-21,Release_1
+Notifications_BUG_182,Notifications,Medium,2024-12-31,2025-01-05,Release_4
+Settings_BUG_183,Settings,Medium,2024-04-09,2024-04-19,Release_3
+Product Catalog_BUG_184,Product Catalog,High,2024-04-09,2024-04-13,Release_4
+User Profile_BUG_185,User Profile,High,2024-01-01,2024-01-09,Release_1
+Payments_BUG_186,Payments,Low,2025-01-01,2025-01-08,Release_2
+Reporting_BUG_187,Reporting,Medium,2024-03-31,2024-04-11,Release_5
+Notifications_BUG_188,Notifications,Medium,2024-01-05,2024-01-10,Release_3
+Reporting_BUG_189,Reporting,Medium,2024-01-11,2024-01-17,Release_1
+Settings_BUG_190,Settings,Medium,2024-01-03,2024-01-07,Release_5
+Reporting_BUG_191,Reporting,Low,2024-09-27,2024-10-08,Release_4
+Search_BUG_192,Search,High,2024-12-31,2025-01-08,Release_4
+Checkout_BUG_193,Checkout,High,2024-12-30,2025-01-09,Release_1
+Reporting_BUG_194,Reporting,Medium,2024-12-26,2024-12-30,Release_5
+Reporting_BUG_195,Reporting,High,2024-01-03,2024-01-08,Release_3
+Reporting_BUG_196,Reporting,High,2024-12-28,2025-01-07,Release_4
+Search_BUG_197,Search,High,2024-01-05,2024-01-17,Release_5
+Authentication_BUG_198,Authentication,High,2024-09-28,2024-10-06,Release_3
+Reporting_BUG_199,Reporting,Medium,2024-07-02,2024-07-11,Release_4
+Payments_BUG_200,Payments,Low,2024-01-04,2024-01-19,Release_3
+Reviews_BUG_201,Reviews,Low,2024-10-05,2024-10-08,Release_1
+Product Catalog_BUG_202,Product Catalog,High,2024-07-04,2024-07-07,Release_5
+Payments_BUG_203,Payments,Low,2024-04-03,2024-04-15,Release_5
+Checkout_BUG_204,Checkout,Critical,2024-01-01,2024-01-06,Release_5
+Settings_BUG_205,Settings,Low,2024-07-06,2024-07-21,Release_1
+Reviews_BUG_206,Reviews,Medium,2024-01-10,2024-01-23,Release_3
+User Profile_BUG_207,User Profile,Medium,2024-04-03,2024-04-08,Release_3
+Reporting_BUG_208,Reporting,Low,2024-01-05,2024-01-08,Release_4
+Payments_BUG_209,Payments,Low,2025-01-03,2025-01-12,Release_1
+Reviews_BUG_210,Reviews,Low,2024-12-31,2025-01-05,Release_3
+Notifications_BUG_211,Notifications,Medium,2024-04-02,2024-04-04,Release_5
+Reporting_BUG_212,Reporting,Low,2024-09-27,2024-09-30,Release_5
+Authentication_BUG_213,Authentication,Medium,2024-09-27,2024-09-29,Release_1
+Search_BUG_214,Search,High,2025-01-05,2025-01-19,Release_5
+Product Catalog_BUG_215,Product Catalog,High,2024-07-03,2024-07-09,Release_5
+Reviews_BUG_216,Reviews,Low,2024-10-06,2024-10-09,Release_1
+Product Catalog_BUG_217,Product Catalog,High,2024-10-01,2024-10-12,Release_1
+Product Catalog_BUG_218,Product Catalog,High,2024-04-03,2024-04-06,Release_4
+Settings_BUG_219,Settings,High,2024-07-05,2024-07-08,Release_3
+Reporting_BUG_220,Reporting,Low,2024-10-04,2024-10-05,Release_3
+Payments_BUG_221,Payments,Low,2024-10-04,2024-10-18,Release_3
+Reporting_BUG_222,Reporting,Low,2024-12-28,2025-01-06,Release_5
+Payments_BUG_223,Payments,High,2025-01-05,2025-01-07,Release_3
+Reviews_BUG_224,Reviews,Medium,2024-10-06,2024-10-13,Release_4
+User Profile_BUG_225,User Profile,Low,2024-04-07,2024-04-14,Release_5
+User Profile_BUG_226,User Profile,High,2024-10-03,2024-10-13,Release_5
+Reviews_BUG_227,Reviews,Low,2024-04-10,2024-04-21,Release_2
+Settings_BUG_228,Settings,Medium,2024-01-10,2024-01-20,Release_4
+Reviews_BUG_229,Reviews,Critical,2024-09-29,2024-10-04,Release_1
+Payments_BUG_230,Payments,Medium,2024-01-11,2024-01-25,Release_5
+Checkout_BUG_231,Checkout,Low,2024-10-07,2024-10-18,Release_3
+User Profile_BUG_232,User Profile,Low,2025-01-05,2025-01-18,Release_2
+Search_BUG_233,Search,Medium,2024-10-05,2024-10-10,Release_2
+Settings_BUG_234,Settings,High,2024-04-03,2024-04-14,Release_4
+Notifications_BUG_235,Notifications,Critical,2024-07-05,2024-07-17,Release_5
+Reporting_BUG_236,Reporting,Critical,2024-12-26,2025-01-05,Release_1
+Checkout_BUG_237,Checkout,Critical,2024-06-29,2024-07-05,Release_2
+Authentication_BUG_238,Authentication,High,2024-12-31,2025-01-02,Release_1
+Authentication_BUG_239,Authentication,High,2024-10-06,2024-10-13,Release_2
+Checkout_BUG_240,Checkout,Medium,2024-10-03,2024-10-12,Release_4
+Search_BUG_241,Search,Medium,2024-04-03,2024-04-12,Release_4
+Reporting_BUG_242,Reporting,High,2024-04-04,2024-04-18,Release_4
+Search_BUG_243,Search,Low,2024-01-11,2024-01-12,Release_1
+Product Catalog_BUG_244,Product Catalog,High,2024-04-01,2024-04-04,Release_4
+Checkout_BUG_245,Checkout,Low,2025-01-01,2025-01-11,Release_4
+Reviews_BUG_246,Reviews,Medium,2025-01-02,2025-01-09,Release_4
+Search_BUG_247,Search,Medium,2024-12-26,2025-01-05,Release_4
+User Profile_BUG_248,User Profile,Medium,2024-07-05,2024-07-20,Release_5
+Reporting_BUG_249,Reporting,High,2024-01-10,2024-01-18,Release_1
+Payments_BUG_250,Payments,High,2024-09-28,2024-10-01,Release_5
+Reviews_BUG_251,Reviews,Medium,2024-10-05,2024-10-07,Release_3
+Settings_BUG_252,Settings,High,2024-04-07,2024-04-18,Release_1
+Payments_BUG_253,Payments,Low,2024-12-30,2025-01-09,Release_5
+Reporting_BUG_254,Reporting,Medium,2024-01-08,2024-01-16,Release_5
+Product Catalog_BUG_255,Product Catalog,Critical,2024-07-05,2024-07-11,Release_5
+Notifications_BUG_256,Notifications,Critical,2024-03-31,2024-04-12,Release_3
+Notifications_BUG_257,Notifications,Medium,2024-06-29,2024-07-10,Release_5
+Search_BUG_258,Search,High,2024-01-11,2024-01-16,Release_5
+Settings_BUG_259,Settings,Low,2024-07-06,2024-07-08,Release_1
+Payments_BUG_260,Payments,Medium,2024-07-01,2024-07-11,Release_3
+Notifications_BUG_261,Notifications,Critical,2024-01-10,2024-01-13,Release_1
+Search_BUG_262,Search,High,2024-07-01,2024-07-06,Release_4
+User Profile_BUG_263,User Profile,Low,2024-04-08,2024-04-22,Release_4
+Payments_BUG_264,Payments,Medium,2024-12-28,2025-01-11,Release_2
+Checkout_BUG_265,Checkout,High,2024-04-10,2024-04-18,Release_4
+Search_BUG_266,Search,High,2024-12-31,2025-01-01,Release_2
+Payments_BUG_267,Payments,Medium,2024-04-07,2024-04-14,Release_1
+Product Catalog_BUG_268,Product Catalog,High,2024-04-06,2024-04-17,Release_5
+Product Catalog_BUG_269,Product Catalog,Medium,2024-04-08,2024-04-22,Release_3
+Notifications_BUG_270,Notifications,Critical,2024-10-07,2024-10-13,Release_4
+Authentication_BUG_271,Authentication,Critical,2025-01-05,2025-01-11,Release_1
+Checkout_BUG_272,Checkout,Medium,2024-07-04,2024-07-09,Release_5
+Payments_BUG_273,Payments,High,2025-01-01,2025-01-09,Release_3
+User Profile_BUG_274,User Profile,High,2024-04-08,2024-04-14,Release_5
+Search_BUG_275,Search,Low,2024-12-26,2025-01-06,Release_3
+Payments_BUG_276,Payments,Low,2024-09-28,2024-10-07,Release_1
+Product Catalog_BUG_277,Product Catalog,Low,2024-04-04,2024-04-09,Release_3
+Authentication_BUG_278,Authentication,High,2024-01-01,2024-01-11,Release_5
+User Profile_BUG_279,User Profile,High,2024-01-02,2024-01-04,Release_5
+Search_BUG_280,Search,Low,2024-12-28,2025-01-12,Release_4
+Search_BUG_281,Search,Critical,2024-07-06,2024-07-17,Release_3
+Product Catalog_BUG_282,Product Catalog,High,2024-10-07,2024-10-20,Release_3
+Notifications_BUG_283,Notifications,Low,2024-01-05,2024-01-18,Release_2
+Checkout_BUG_284,Checkout,Medium,2024-01-05,2024-01-19,Release_3
+Product Catalog_BUG_285,Product Catalog,Medium,2024-09-30,2024-10-10,Release_1
+Product Catalog_BUG_286,Product Catalog,Medium,2024-04-08,2024-04-21,Release_1
+Settings_BUG_287,Settings,Low,2024-10-01,2024-10-03,Release_1
+Payments_BUG_288,Payments,High,2024-07-06,2024-07-07,Release_5
+Search_BUG_289,Search,Medium,2024-01-11,2024-01-18,Release_1
+Reporting_BUG_290,Reporting,High,2024-12-26,2025-01-04,Release_4
+Product Catalog_BUG_291,Product Catalog,High,2024-10-03,2024-10-17,Release_4
+Payments_BUG_292,Payments,Critical,2024-03-31,2024-04-07,Release_5
+Product Catalog_BUG_293,Product Catalog,Critical,2025-01-03,2025-01-18,Release_1
+Reporting_BUG_294,Reporting,Critical,2024-09-27,2024-10-08,Release_3
+Payments_BUG_295,Payments,High,2024-12-31,2025-01-02,Release_3
+Notifications_BUG_296,Notifications,Critical,2024-04-08,2024-04-09,Release_2
+User Profile_BUG_297,User Profile,High,2024-09-28,2024-10-09,Release_3
+Product Catalog_BUG_298,Product Catalog,Low,2024-09-30,2024-10-03,Release_1
+Authentication_BUG_299,Authentication,Low,2024-04-07,2024-04-14,Release_5
+Reviews_BUG_300,Reviews,High,2024-10-05,2024-10-19,Release_3
